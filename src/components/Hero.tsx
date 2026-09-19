@@ -136,7 +136,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuote, onScrollToServices }) =
                 </div>
                 <div className="flex items-center gap-2 px-3 py-1 rounded-full bg-[#EAEFFE] shadow-[inset_2px_2px_4px_#cbd3ed,inset_-2px_-2px_4px_#ffffff] text-xs font-bold text-[#6C5DD3]">
                   <Terminal className="w-3 h-3" />
-                  <span>nextedge-engine.v2</span>
+                  <span>Nextvane-engine.v2</span>
                 </div>
               </div>
 
@@ -145,7 +145,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuote, onScrollToServices }) =
   <div className="flex items-center justify-between text-[#6C5DD3] font-semibold border-b border-[#cbd3ed]/50 pb-1.5">
     <span className="flex items-center gap-1.5">
       <Code2 className="w-3.5 h-3.5" />
-      <span>nextedge_core.engine.ts</span>
+      <span>Nextvane_core.engine.ts</span>
     </span>
     <span className="text-[10px] text-[#9787F3] bg-[#9787F3]/10 px-1.5 py-0.5 rounded font-sans font-bold">
       ● Deploying Premium Systems
@@ -153,8 +153,8 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuote, onScrollToServices }) =
   </div>
 
   <p className="text-[#4A4674]">
-    <span className="text-[#6C5DD3] font-bold">const</span> nextEdge ={" "}
-    <span className="text-[#9787F3] font-bold">await</span> NextEdgeSolutions.launch(&#123;
+    <span className="text-[#6C5DD3] font-bold">const</span> Nextvane ={" "}
+    <span className="text-[#9787F3] font-bold">await</span> NextvaneSolutions.launch(&#123;
   </p>
 
   <p className="pl-4 text-[#1E1B4B]">

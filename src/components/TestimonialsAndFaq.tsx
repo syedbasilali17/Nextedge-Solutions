@@ -28,7 +28,7 @@ export const TestimonialsAndFaq: React.FC = () => {
             </span>
           </h2>
           <p className="text-base sm:text-lg text-[#4A4674] leading-relaxed">
-            See why international founders and product leaders choose NextEdge Solutions as their primary
+            See why international founders and product leaders choose Nextvane Solutions as their primary
             software engineering and design partner.
           </p>
         </div>

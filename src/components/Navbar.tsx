@@ -103,7 +103,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenQuote }) => {
               handleNavClick('#hero');
             }}
             className="flex items-center shrink-0 py-1 rounded-2xl transition-transform duration-200 hover:scale-[1.02] focus:outline-none"
-            aria-label="NextEdge Solutions Home"
+            aria-label="Nextvane Solutions Home"
           >
             <Logo size="md" />
           </a>
@@ -259,7 +259,7 @@ className="px-5 py-2 text-sm font-semibold text-[#1E1B4B]/80 hover:text-[#6C5DD3
                   {/* Trust Footer Tag */}
                   <div className="text-center pt-1">
                     <span className="text-[11px] font-semibold text-[#4A4674]">
-                      NextEdge Solutions • 24hr Fast Response
+                     NextvaneSolutions • 24hr Fast Response
                     </span>
                   </div>
                 </div>

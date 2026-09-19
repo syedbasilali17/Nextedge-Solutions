@@ -33,7 +33,7 @@ export const PortfolioSection: React.FC = () => {
           </h2>
           <p className="text-base sm:text-lg text-[#4A4674] leading-relaxed">
             Explore a curated selection of web applications, flagship websites, and custom platforms engineered
-            by NextEdge Solutions for startups and global enterprises.
+            by Nextvane Solutions for startups and global enterprises.
           </p>
         </div>
 

@@ -110,7 +110,7 @@ export const QuoteModal: React.FC<QuoteModalProps> = ({ isOpen, onClose }) => {
                 Get a Free Technical Quote
               </h3>
               <p className="text-xs sm:text-sm text-[#4A4674]">
-                Select your parameters below to receive a custom project estimate and milestone plan from NextEdge Solutions.
+                Select your parameters below to receive a custom project estimate and milestone plan from NextvaneSolutions.
               </p>
             </div>
 

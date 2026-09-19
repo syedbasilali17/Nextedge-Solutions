@@ -22,7 +22,7 @@ export const Footer: React.FC = () => {
               <Logo size="md" />
             </a>
             <p className="text-xs sm:text-sm text-[#4A4674] leading-relaxed mb-6 max-w-sm">
-              NextEdge Solutions is a boutique software house and digital agency delivering modern web development,
+              Nextvane Solutions is a boutique software house and digital agency delivering modern web development,
               resilient web applications, intuitive UI/UX design, and scalable digital solutions.
             </p>
 
@@ -150,7 +150,7 @@ export const Footer: React.FC = () => {
 
         </div>
 
-        {/* Bottom Bar: Copyright (Mandatory: "© NextEdge Solutions. All rights reserved.") + Back to top */}
+        {/* Bottom Bar: Copyright (Mandatory: "© Nextvane Solutions. All rights reserved.") + Back to top */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p
             id="footer-copyright"

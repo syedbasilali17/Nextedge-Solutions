@@ -1,12 +1,12 @@
 import { ServiceItem, ProjectItem, TestimonialItem } from '../types';
 
 export const COMPANY_DETAILS = {
-  name: 'NextEdge Solutions',
+  name: 'Nextvane Solutions',
   tagline: 'Empowering Digital Growth',
   phone: '03152984976',
   email: 'syedbasilali22@gmail.com',
   location: 'Remote-First | Global Delivery Network',
-  copyright: '© NextEdge Solutions. All rights reserved.',
+  copyright: '© Nextvane Solutions. All rights reserved.',
   founded: '2023',
   stats: [
     { label: 'Completed Projects', value: '150+' },
@@ -222,7 +222,7 @@ export const TESTIMONIALS_DATA: TestimonialItem[] = [
     company: 'HyperScale Systems (San Francisco)',
     avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80',
     quote:
-      'NextEdge Solutions delivered our complex SaaS portal 3 weeks ahead of schedule. The tactile neumorphic UI instantly set us apart in investor demos, and the codebase was pristine.',
+      'Nextvane Solutions delivered our complex SaaS portal 3 weeks ahead of schedule. The tactile neumorphic UI instantly set us apart in investor demos, and the codebase was pristine.',
     rating: 5,
     projectType: 'Web Applications',
   },
@@ -233,7 +233,7 @@ export const TESTIMONIALS_DATA: TestimonialItem[] = [
     company: 'Veloce Global Media (London)',
     avatar: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80',
     quote:
-      'Working with the NextEdge team was seamless despite our 8-hour timezone gap. Their remote-first structure and proactive communication made them feel like our in-house engineering squad.',
+      'Working with the Nextvane team was seamless despite our 8-hour timezone gap. Their remote-first structure and proactive communication made them feel like our in-house engineering squad.',
     rating: 5,
     projectType: 'Website Development',
   },
@@ -244,7 +244,7 @@ export const TESTIMONIALS_DATA: TestimonialItem[] = [
     company: 'Lumina FinTech (Singapore)',
     avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80',
     quote:
-      'Our e-commerce conversion jumped by 38% after NextEdge redesigned our payment flow and implemented their custom checkout UI. Outstanding design precision and reliability.',
+      'Our e-commerce conversion jumped by 38% after Nextvane redesigned our payment flow and implemented their custom checkout UI. Outstanding design precision and reliability.',
     rating: 5,
     projectType: 'E-commerce Solutions',
   },
@@ -252,7 +252,7 @@ export const TESTIMONIALS_DATA: TestimonialItem[] = [
 
 export const FAQS_DATA = [
   {
-    question: 'How does NextEdge Solutions handle remote development?',
+    question: 'How does Nextvane Solutions handle remote development?',
     answer:
       'We operate with a fully agile, remote-first model. We maintain transparent sprint boards, daily automated progress rollups, dedicated Slack/Discord channels, and regular video demos to ensure your project stays on track and transparent.',
   },

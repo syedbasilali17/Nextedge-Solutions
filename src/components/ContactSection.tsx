@@ -74,7 +74,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ preselectedServi
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#1E1B4B] tracking-tight mb-4">
             Get in Touch With{' '}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#6C5DD3] to-[#9787F3]">
-              NextEdge Solutions
+              Nextvane Solutions
             </span>
           </h2>
           <p className="text-base sm:text-lg text-[#4A4674] leading-relaxed">
@@ -225,7 +225,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ preselectedServi
                     Message Received!
                   </h4>
                   <p className="text-sm text-[#4A4674] max-w-md mb-6 leading-relaxed">
-                    Thank you, <span className="font-semibold text-[#1E1B4B]">{formData.name}</span>. Our engineering team at NextEdge Solutions has received your request regarding <span className="font-semibold text-[#6C5DD3]">{formData.service}</span>. We will follow up at <span className="font-semibold text-[#1E1B4B]">{formData.email}</span> shortly.
+                    Thank you, <span className="font-semibold text-[#1E1B4B]">{formData.name}</span>. Our engineering team at Nextvane Solutions has received your request regarding <span className="font-semibold text-[#6C5DD3]">{formData.service}</span>. We will follow up at <span className="font-semibold text-[#1E1B4B]">{formData.email}</span> shortly.
                   </p>
                   <button
                     onClick={() => {

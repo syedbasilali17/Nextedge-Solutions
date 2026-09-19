@@ -56,7 +56,7 @@ export const AboutSection: React.FC = () => {
           <div className="clay-pill inline-flex items-center gap-2 px-4 py-1.5 mb-4">
             <Sparkles className="w-3.5 h-3.5 text-[#6C5DD3]" />
             <span className="text-xs font-bold text-[#1E1B4B] tracking-wide uppercase">
-              About NextEdge Solutions
+              About Nextvane Solutions
             </span>
           </div>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#1E1B4B] tracking-tight mb-4">
@@ -66,7 +66,7 @@ export const AboutSection: React.FC = () => {
             </span>
           </h2>
           <p className="text-base sm:text-lg text-[#4A4674] leading-relaxed">
-            NextEdge Solutions is an agile software house startup born with a clear mandate: to help bold companies
+            Nextvane Solutions is an agile software house startup born with a clear mandate: to help bold companies
             outpace the competition through superior technology, refined tactile design, and rapid delivery.
           </p>
         </div>
@@ -156,7 +156,7 @@ export const AboutSection: React.FC = () => {
             <div className="clay-pill inline-flex items-center gap-2 px-4 py-1.5 mb-4">
               <Sparkles className="w-3.5 h-3.5 text-[#6C5DD3]" />
               <span className="text-xs font-bold tracking-wider text-[#6C5DD3] uppercase">
-                NextEdge Operating Model
+                Nextvane Operating Model
               </span>
             </div>
             <h3 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#1E1B4B] tracking-tight mb-4 leading-tight">
@@ -167,7 +167,7 @@ export const AboutSection: React.FC = () => {
             </h3>
             <p className="text-base sm:text-lg text-[#4A4674] leading-relaxed">
               Unlike traditional agencies weighed down by expensive physical leases and localized talent constraints,
-              NextEdge recruits top-percentile software engineers worldwide — offering faster delivery, senior direct access, and zero corporate bureaucracy.
+              Nextvane recruits top-percentile software engineers worldwide — offering faster delivery, senior direct access, and zero corporate bureaucracy.
             </p>
             
             {/* Quick Benefits Badges */}
