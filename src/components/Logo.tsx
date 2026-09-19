@@ -19,7 +19,7 @@ const sizeClasses = {
   return (
     <div className={`flex items-center ${className}`}>
       <img
-        src="public/images/Logo.png"
+        src="/assets/images/logo.png"
         alt="Logo"
         className={`${sizeClasses[size]} w-auto object-contain`}
       />
